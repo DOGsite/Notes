@@ -1,0 +1,39 @@
+*{
+    transition: all 2s;
+}
+#Add{
+    color: #ffffff;
+    background-color: green;
+    width: 180px;
+    height: 35px;
+}
+#Del{
+    color: #ffffff;
+    background-color: red;
+    width: 180px;
+    height: 35px;
+    
+}
+#alllist{
+    display: flex;
+
+}
+#in{
+border: 0px;
+width: 180px;
+height: 35px;
+}
+#out{
+cursor: pointer;
+
+
+
+}
+/* #out:hover{
+    cursor: pointer;
+    text-decoration:line-through;
+    color: red;
+    } */
+    #done{
+        /* display: none; */
+    }
