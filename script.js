@@ -21,7 +21,7 @@
                     out += '<input type="checkbox">';
                     
             }
-            out += todolist[key].todo + 'done' + '<br>';
+            out += todolist[key].todo + '<br>';
 
         }
        
